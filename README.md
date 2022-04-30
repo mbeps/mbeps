@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Maruf 👋
 
 <!--
 **mbeps/mbeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 GitHub Stats
+<!--https://github.com/anuraghazra/github-readme-stats#github-stats-card  -->
+
+![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbeps&count_private=true&theme=dark)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&count_private=true&theme=dark&langs_count=10&layout=compact)
