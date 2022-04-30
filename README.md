@@ -1,24 +1,35 @@
 ### Hi there, I'm Maruf 👋
 
-<!--
-**mbeps/mbeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️Languages & Tools
+<div>
+  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/python.png?raw=true">&nbsp;
+  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/bash.png?raw=true">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/java.png?raw=true">&nbsp;
+  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/js.png?raw=true">&nbsp;
+  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/ts.png?raw=true">&nbsp;
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 📊 GitHub Stats
 <!--https://github.com/anuraghazra/github-readme-stats#github-stats-card  -->
 
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbeps&count_private=true&theme=dark)
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&count_private=true&theme=dark&langs_count=10&layout=compact)
+
+## 🧩Other Skills & Interests
+- ➗Mathematics
+  - Algebra
+  - Geometry
+  - Trigonometry 
+  - Calculus
+  - Probability & Statistics
+  - Linear Algebra
+  - Descrete Maths
+- Artificial Intelligence, Machine Learning, Deep Learning & Data Science
+
+## 🎉Hobbies 
+- 🏐Sports
+  - ⚽Football
+  - 🏸Badminton 
+- Reading about Astronomy 
