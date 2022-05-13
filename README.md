@@ -29,7 +29,7 @@
 
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbeps&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&count_private=true&theme=dark&langs_count=10&layout=compact)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧩Other Skills & Interests
 - ➗Mathematics
