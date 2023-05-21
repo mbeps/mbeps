@@ -31,6 +31,8 @@
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Summary]("https://github-readme-streak-stats.herokuapp.com?user=mbeps&theme=github-dark-blue&hide_border=true" alt="Github streak")
+
 ## 🧩Other Skills & Interests
 - ➗Mathematics
   - Algebra
