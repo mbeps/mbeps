@@ -1,4 +1,3 @@
-
 👋 Hi there! I'm Maruf Bepary, a First Class Honours graduate in Computer Science from Royal Holloway University of London. Specializing in full-stack web development, machine learning, and DevOps, I have a relentless passion for continuous learning and self-improvement. I love diving into new challenges that broaden my skills and deepen my understanding of this ever-evolving field. With a strong foundation in mathematics and a fascination for astronomy, I blend the analytical with the imaginative in all my projects. Whether I'm coding, collaborating on a team, or exploring the latest technologies, I'm driven by curiosity and a steadfast commitment to excellence. Ready to tackle the next big challenge? Let's do it together! 🌌🚀
 
 ## ⚙️ Languages
@@ -9,7 +8,145 @@
   </a>
 </p>
 
+## 🛠 Tools and Skills
+
 You can view the technologies, skills and tools on my [personal website](https://www.maruf-bepary.com//#about) . You can sort them by language and category too!
+
+<details>
+  <summary>Click to view skills and tools</summary>
+  
+### Full Stack Web Development
+
+| Skill     | Languages          |
+|-----------|--------------------|
+| Next.JS   | JavaScript, TypeScript |
+
+### Backend Web Development
+
+| Skill        | Languages            |
+|--------------|----------------------|
+| NextAuth     | JavaScript, TypeScript |
+| Node.JS      | JavaScript, TypeScript |
+| Flask        | Python                |
+| Django       | Python                |
+| Firebase     | -                     |
+| Supabase     | -                     |
+| PocketBase   | -                     |
+| Auth0        | -                     |
+| Clerk Auth   | -                     |
+| Stripe       | -                     |
+
+### Frontend Web Development
+
+| Skill      | Languages            |
+|------------|----------------------|
+| React      | JavaScript, TypeScript |
+| Tailwind CSS | -                   |
+| Radix UI   | -                     |
+| Headless UI| -                     |
+| Chakra UI  | -                     |
+| Next UI    | -                     |
+| Shadcn UI  | -                     |
+| HTML       | -                     |
+| CSS        | -                     |
+
+### Testing
+
+| Skill   | Languages            |
+|---------|----------------------|
+| Jest    | JavaScript, TypeScript |
+| Vitest  | JavaScript, TypeScript |
+| PyTest  | Python                |
+| JUnit   | Java                  |
+
+### Object Relational Mapper
+| Skill    | Languages            |
+|----------|----------------------|
+| Prisma   | JavaScript, TypeScript |
+| Drizzle  | JavaScript, TypeScript |
+| Mongoose | JavaScript, TypeScript |
+| SQLAlchemy | Python              |
+
+### Project Manager
+
+| Skill  | Languages |
+|--------|-----------|
+| Poetry | Python    |
+| Maven  | Java      |
+
+### Version Control System
+
+| Skill | Languages |
+|-------|-----------|
+| Git   | -         |
+| SVN   | -         |
+
+### Continuous Integration
+
+
+| Skill         | Languages |
+|---------------|-----------|
+| GitHub Actions | -         |
+| Jenkins       | -         |
+
+### Containerization
+
+| Skill | Languages |
+|-------|-----------|
+| Docker| -         |
+
+### API
+
+| Skill  | Languages |
+|--------|-----------|
+| REST   | -         |
+| GraphQL| -         |
+
+### Database
+
+| Skill       | Languages |
+|-------------|-----------|
+| PostgreSQL  | -         |
+| MySQL       | -         |
+| SQLite      | -         |
+| Normalisation | -       |
+| MongoDB     | -         |
+| Redis       | -         |
+
+### Web Socket
+
+| Skill  | Languages |
+|--------|-----------|
+| Socket.IO | -       |
+| Pusher   | -       |
+
+### Artificial Intelligence
+
+| Skill      | Languages |
+|------------|-----------|
+| OpenAI     | -         |
+| Replicate AI| -        |
+
+### Mathematics
+
+| Skill               | Languages |
+|---------------------|-----------|
+| Probability & Statistics | -     |
+| Calculus             | -        |
+| Trigonometry         | -        |
+| Algebra              | -        |
+| Linear Algebra       | -        |
+| Discrete             | -        |
+| Geometry             | -        |
+
+### Other
+
+| Skill  | Languages |
+|--------|-----------|
+| Vagrant| -         |
+
+</details>
+
 
 ## 📊 GitHub Stats
 
