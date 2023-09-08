@@ -9,7 +9,7 @@
   </a>
 </p>
 
-You can view the technologies, skills and tools on my [personal website](https://www.maruf-bepary.com/) . You can sort them by language and category too!
+You can view the technologies, skills and tools on my [personal website](https://www.maruf-bepary.com//#about) . You can sort them by language and category too!
 
 ## 📊 GitHub Stats
 
@@ -21,7 +21,7 @@ You can view the technologies, skills and tools on my [personal website](https:/
 
 
 ## 🛠 Projects
-[Projects Portfolio](https://www.maruf-bepary.com/projects) - I've been involved in a range of software development projects, covering various domains and technologies. If you're interested, you can explore the gallery, features, tech stack, as well as the repositories and deployed sites for each project.
+[Projects Portfolio](https://www.maruf-bepary.com/projects#about) - I've been involved in a range of software development projects, covering various domains and technologies. If you're interested, you can explore the gallery, features, tech stack, as well as the repositories and deployed sites for each project.
 
 ## ✍️ Blogs
 [Technical Blogs/Articles](https://www.maruf-bepary.com/blogs) - I regularly write technical blogs and articles discussing a variety of technologies, tools, and best practices in the software development field. My blogs aim to contribute to the community by sharing knowledge and sparking interesting discussions. 
