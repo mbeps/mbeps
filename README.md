@@ -1,50 +1,52 @@
-### Hi there, I'm Maruf 👋
 
+👋 Hi there! I'm Maruf Bepary, a First Class Honours graduate in Computer Science from Royal Holloway University of London. Specializing in full-stack web development, machine learning, and DevOps, I have a relentless passion for continuous learning and self-improvement. I love diving into new challenges that broaden my skills and deepen my understanding of this ever-evolving field. With a strong foundation in mathematics and a fascination for astronomy, I blend the analytical with the imaginative in all my projects. Whether I'm coding, collaborating on a team, or exploring the latest technologies, I'm driven by curiosity and a steadfast commitment to excellence. Ready to tackle the next big challenge? Let's do it together! 🌌🚀
 
+## ⚙️ Languages
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,haskell,bash,php" />
+  </a>
+</p>
 
-## ⚙️Languages & Tools
-<div>
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/git.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/svn.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/python.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/bash.png?raw=true">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/java.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/js.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/ts.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/postgresql.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/mongodb.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/graphql.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/rest.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/node.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/languages/next.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/os/linux.png?raw=true">&nbsp;
-  <img width=50px src="https://github.com/mbeps/mbeps/blob/main/assets/os/fedora.png?raw=true">&nbsp;
-  <img width=50px src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">&nbsp;
-</div>
-
+You can view the technologies, skills and tools on my [personal website](https://www.maruf-bepary.com/) . You can sort them by language and category too!
 
 ## 📊 GitHub Stats
-<!--https://github.com/anuraghazra/github-readme-stats#github-stats-card  -->
 
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbeps&count_private=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbeps&count_private=true&theme=dark" />
+  <br/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&hide_progress=true&theme=dark"/>
+</p>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🧩Other Skills & Interests
-- ➗Mathematics
-  - Algebra
-  - Geometry
-  - Trigonometry 
-  - Calculus
-  - Probability & Statistics
-  - Linear Algebra
-  - Descrete Maths
-- 🧠Artificial Intelligence, Machine Learning, Deep Learning & Data Science
+## 🛠 Projects
+[Projects Portfolio](https://www.maruf-bepary.com/projects) - I've been involved in a range of software development projects, covering various domains and technologies. If you're interested, you can explore the gallery, features, tech stack, as well as the repositories and deployed sites for each project.
 
-## 🎉Hobbies 
-- 🏐Sports
-  - ⚽Football
-  - 🏸Badminton 
-- 📖Reading about Astronomy and general sciences
-- 📺Watch tech 
+## ✍️ Blogs
+[Technical Blogs/Articles](https://www.maruf-bepary.com/blogs) - I regularly write technical blogs and articles discussing a variety of technologies, tools, and best practices in the software development field. My blogs aim to contribute to the community by sharing knowledge and sparking interesting discussions. 
+
+## 📬 Contact Information
+
+<p align="center">
+  <table align="center" style="border: 0;">
+    <tr style="border: 0;">
+      <td align="center" style="border: 0;">
+        <a href="https://www.linkedin.com/in/maruf-bepary">
+          <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" style="border: 0;">
+        <a href="https://www.maruf-bepary.com/">
+          <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Personal Portfolio Website"/>
+        </a>
+      </td>
+    </tr>
+    <tr style="border: 0;">
+      <td align="center" style="border: 0;">LinkedIn Profile</td>
+      <td align="center" style="border: 0;">Personal  Website</td>
+    </tr>
+  </table>
+</p>
+
+
