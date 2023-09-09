@@ -15,6 +15,7 @@ You can view the technologies, skills and tools on my [personal website](https:/
 
 <details>
   <summary>Click to view skills and tools</summary>
+	
 ### Full Stack Web Development
 
 | Skill   | Languages              |
