@@ -16,13 +16,13 @@ You can view the technologies, skills and tools on my [personal website](https:/
 <details>
   <summary>Click to view skills and tools</summary>
 	
-### Full Stack Web Development
+### Full-Stack Web Development
 
 | Skill   | Languages              |
 | ------- | ---------------------- |
 | Next.JS | JavaScript, TypeScript |
 
-### Backend Web Development
+### Back-End Web Development
 
 | Skill      | Languages              |
 | ---------- | ---------------------- |
@@ -37,17 +37,12 @@ You can view the technologies, skills and tools on my [personal website](https:/
 | Clerk Auth | -                      |
 | Stripe     | -                      |
 
-### Frontend Web Development
+### Front-End Web Development
 
 | Skill        | Languages              |
 | ------------ | ---------------------- |
 | React        | JavaScript, TypeScript |
 | Tailwind CSS | -                      |
-| Radix UI     | -                      |
-| Headless UI  | -                      |
-| Chakra UI    | -                      |
-| Next UI      | -                      |
-| Shadcn UI    | -                      |
 | HTML         | -                      |
 | CSS          | -                      |
 
@@ -127,6 +122,15 @@ You can view the technologies, skills and tools on my [personal website](https:/
 | ------------ | --------- |
 | OpenAI       | -         |
 | Replicate AI | -         |
+
+### Machine Learning
+
+| Skill   | Languages              |
+| ------- | ---------------------- |
+| Scikit-Learn | Python |
+| Pandas | Python |
+| Numpy | Python |
+| Matplotlib | Python |
 
 ### Mathematics
 
