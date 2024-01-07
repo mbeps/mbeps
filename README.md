@@ -1,5 +1,13 @@
+# 👋 Hi there! I'm Maruf  
+As a first-class honours Computer Science graduate from Royal Holloway University of London, I am a dedicated DevOps Engineer. My journey is defined by a relentless drive for technological excellence, particularly in cloud computing and CI/CD, ensuring dynamic and successful outcomes. My commitment to continuous learning keeps me at the cutting edge of industry developments.
 
-👋 Hi there! I'm Maruf Bepary, a First Class Honours graduate in Computer Science from Royal Holloway University of London. Specializing in full-stack web development, machine learning, and DevOps, I have a relentless passion for continuous learning and self-improvement. I love diving into new challenges that broaden my skills and deepen my understanding of this ever-evolving field. With a strong foundation in mathematics and a fascination for astronomy, I blend the analytical with the imaginative in all my projects. Whether I'm coding, collaborating on a team, or exploring the latest technologies, I'm driven by curiosity and a steadfast commitment to excellence. Ready to tackle the next big challenge? Let's do it together! 🌌🚀
+My final year university project, Circus Discussion, is a testament to my passion for full-stack web development and DevOps. This project involved creating a community discussion platform with a focus on user-friendly interfaces, data security, and efficient project design. By utilizing TypeScript and key technologies like Firebase, React, and Docker, I implemented CI/CD pipelines for efficient deployment. This project not only honed my technical skills in front-end design, database management, and containerization but also reinforced my ability to plan, problem-solve, and adapt within an agile development framework.
+
+The Adult Income Prediction project marked a significant stride in my machine learning journey. Utilizing Python and RandomForestClassifier, I developed a model to predict income brackets based on various determinants. This project involved rigorous data preprocessing, performance benchmarking, and hyperparameter tuning to optimize the model's performance. Employing technologies like Scikit Learn and Jupyter Notebooks, I delved deep into algorithmic analysis and data visualization, embodying my commitment to both technical and soft skills in problem-solving and creativity.
+
+In a foundational exploration of software engineering methodologies, my second-year Java assignment involved developing a calculator application. This project emphasized the importance of following efficient software development processes, including test-driven development, version control, and adherence to design patterns. Leveraging tools like SVN and JUnit, I focused on creating not just functional, but also maintainable and well-documented code. This experience strengthened my skills in planning, critical thinking, and adapting to the rigorous standards of software development.
+
+Equipped with an extensive suite of certifications in various technologies and programming languages, I continually refine my expertise in the tech landscape. My commitment extends beyond credentials, as evidenced by my series of insightful technical blogs, where I share knowledge and explore emerging trends.
 
 ## ⚙️ Languages
 
@@ -31,6 +39,9 @@ You can view the technologies, skills and tools on my [personal portfolio](https
 
 [Technical Blogs/Articles](https://www.maruf-bepary.com/blogs) - I regularly write technical blogs and articles discussing a variety of technologies, tools, and best practices in the software development field. My blogs aim to contribute to the community by sharing knowledge and sparking interesting discussions.
 
+## 🏅 Certifications
+
+[Professional Certifications](https://www.maruf-bepary.com/credentials) - Dive into my certifications showcasing a commitment to diverse skills and continuous learning. Explore credentials across various domains, view the certification details, and see acknowledgements of my expertise and dedication to professional development.
 ## 📬 Contact Information
 
 <p align="center">
