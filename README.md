@@ -11,7 +11,7 @@
 
 ## 🛠 Tools and Skills
 
-You can view the technologies, skills and tools on my [personal website]([https://www.maruf-bepary.com//skills](https://www.maruf-bepary.com/skills?group=category&hard=false&general=true&soft=true&no-material=true)). You can sort them by language and category too!
+You can view the technologies, skills and tools on my [personal portfolio](https://www.maruf-bepary.com/skills?group=category&hard=false&general=true&soft=true&no-material=true) . You can sort them by language and category too!
 
 ## 📊 GitHub Stats
 
