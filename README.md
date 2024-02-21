@@ -41,7 +41,7 @@ You can view the technologies, skills and tools on my [personal portfolio](https
 
 ## 🏅 Certifications
 
-[Professional Certifications](https://www.maruf-bepary.com/credentials) - Dive into my certifications showcasing a commitment to diverse skills and continuous learning. Explore credentials across various domains, view the certification details, and see acknowledgements of my expertise and dedication to professional development.
+[Professional Certifications](https://www.maruf-bepary.com/certificates) - Dive into my certifications showcasing a commitment to diverse skills and continuous learning. Explore credentials across various domains, view the certification details, and see acknowledgements of my expertise and dedication to professional development.
 ## 📬 Contact Information
 
 <p align="center">
