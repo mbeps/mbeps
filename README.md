@@ -13,7 +13,10 @@ My diverse roles have honed my abilities in communication, task management, time
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,haskell,bash,php" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java," />
+  </br>
+  </br>
+    <img src="https://skillicons.dev/icons?i=c,haskell,bash,php,kotlin,scala,r," />
   </a>
 </p>
 
