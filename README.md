@@ -37,7 +37,7 @@ class Me(metaclass=PersonMeta):
     <img src="https://skillicons.dev/icons?i=py,js,ts,java," />
   </br>
   </br>
-    <img src="https://skillicons.dev/icons?i=c,haskell,bash,php,kotlin,scala,r," />
+    <img src="https://skillicons.dev/icons?i=c,haskell,bash,php,kotlin,scala,r,matlab" />
   </a>
 </p>
 
